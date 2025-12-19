@@ -1,6 +1,9 @@
 {
   "entryPoint": "main.ts",
   "name": "default script 1",
+  "license": {
+    "type": "mit"
+  },
   "images": [
     {
       "path": "images/thumbnail-WgYni-vi.png",
@@ -8,7 +11,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2025-12-19T13:54:40.184Z",
+    "createdAt": "2025-12-19T14:11:04.314Z",
     "createdWith": "cadit-web",
     "designId": "reKM95aqO0Ek9nI"
   }
