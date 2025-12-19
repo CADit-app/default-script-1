@@ -5,7 +5,7 @@ A CADit script package.
 ## Installation
 
 ```bash
-npm install github:cadit-app/default-script-1#v1.0.0
+npm install github:cadit-app/default-script-1#v1.0.1
 ```
 
 ## Usage

@@ -9,7 +9,7 @@ import { Manifold } from 'manifold-3d/manifoldCAD';
 const cube = Manifold.cube([20, 20, 20], true)
 
 // Create a cylinder (10mm diameter, 25mm tall) for the hole
-const cylinder = Manifold.cylinder(25, 5);
+const cylinder = Manifold.cylinder(25, 11);
 
 // Subtract the cylinder from the cube to create a hole
 const difference = cube.subtract(cylinder);
