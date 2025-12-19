@@ -1,6 +1,6 @@
 {
   "name": "@cadit-app/default-script-1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
@@ -19,6 +19,7 @@
     "build:3mf": "manifold-cad main.ts output.3mf",
     "build:glb": "manifold-cad main.ts output.glb"
   },
+  "license": "mit",
   "repository": {
     "type": "git",
     "url": "https://github.com/CADit-app/default-script-1"

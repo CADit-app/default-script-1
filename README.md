@@ -3,6 +3,7 @@
 ![default script 1](./images/thumbnail-WgYni-vi.png)
 
 Adding a description to test updating.
+Some more edits.
 
 > 🔧 This is a [CADit](https://cadit.app) script package - a code-based 3D model you can open and modify.
 > 
@@ -41,5 +42,5 @@ npm run build:glb
   <sub>Created with <a href="https://cadit.app">CADit</a> - The open platform for code-based 3D models.</sub>
 </p>
 <p align="center">
-  Use our web-based <a href="https://cadit.app">CAD application</a> to create, open and edit designs visually.
+  <sub>Use our web-based <a href="https://app.cadit.app">CAD application</a> to create, open and edit designs visually.</sub>
 </p>
