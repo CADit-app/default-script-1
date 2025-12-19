@@ -1,6 +1,7 @@
 {
   "entryPoint": "main.ts",
   "name": "default script 1",
+  "description": "Adding a description to test updating.",
   "license": {
     "type": "mit"
   },
@@ -11,7 +12,7 @@
     }
   ],
   "metadata": {
-    "createdAt": "2025-12-19T14:11:04.314Z",
+    "createdAt": "2025-12-19T14:43:12.415Z",
     "createdWith": "cadit-web",
     "designId": "reKM95aqO0Ek9nI"
   }

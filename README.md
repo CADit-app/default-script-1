@@ -2,25 +2,33 @@
 
 ![default script 1](./images/thumbnail-WgYni-vi.png)
 
-A CADit parametric 3D model.
+Adding a description to test updating.
 
-> 🔧 This is a [CADit](https://cadit.app) script package - a parametric 3D model you can customize and 3D print.
+> 🔧 This is a [CADit](https://cadit.app) script package - a code-based 3D model you can open and modify.
 > 
-> Open this design in [CADit](https://cadit.app) to customize parameters, preview in 3D, and export for 3D printing.
+> Open this design in [CADit](https://cadit.app) to preview in 3D, customize, and export.
+> You can also fork this design and re-publish your own version!
 
-## Installation
+## Use in Your Project
+
+Install as a dependency in your TypeScript/JavaScript project:
 
 ```bash
 npm install @cadit-app/default-script-1
 ```
 
-## Usage
+Then import and use it in your code.
 
-```typescript
-import { main } from '@cadit-app/default-script-1';
+## Build Locally
 
-// Call main() to generate the 3D model
-const geometry = main({ /* parameters */ });
+Clone this repo and build 3D files offline:
+
+```bash
+git clone https://github.com/CADit-app/default-script-1.git
+cd default-script-1
+npm install
+npm run build:3mf
+npm run build:glb
 ```
 
 ## License
@@ -30,5 +38,8 @@ const geometry = main({ /* parameters */ });
 ---
 
 <p align="center">
-  <sub>Created with <a href="https://cadit.app">CADit</a> - The open parametric CAD platform for 3D printing</sub>
+  <sub>Created with <a href="https://cadit.app">CADit</a> - The open platform for code-based 3D models.</sub>
+</p>
+<p align="center">
+  Use our web-based <a href="https://cadit.app">CAD application</a> to create, open and edit designs visually.
 </p>
